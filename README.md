@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zippy6666
+- 👋 Hi, I’m Simon
 - 👀 I’m interested in AI, Machine Learning, Python, Programming, Software Development, System Development
 - 🌱 I’m currently learning AI/ML and Python
 
