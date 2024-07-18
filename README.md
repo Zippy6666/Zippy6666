@@ -1,1 +1,1 @@
-I am currently studying "Pythonutvecklare med inriktning AI" at Teknikhögskolans in Sweden. I am very interested in both Python and AI/ML. At the age of 19, I have extensive experience with the Python scripting language, as well as Lua.
+I am currently studying the "Pythonutvecklare med inriktning AI" course at Teknikhögskolan in Sweden. I am very interested in both Python and AI/ML. At the age of 19, I have extensive experience with the Python scripting language, as well as Lua.
