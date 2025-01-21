@@ -1,1 +1,1 @@
-I am currently studying the "Python Developer with a focus on AI" program at Teknikhögskolan in Västerås, Sweden. I am very interested in both Python and AI/ML. I have extensive experience with the Python scripting language, as well as Lua.
+VERY smart person. Even though it doesn't seem like it.
